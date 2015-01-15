@@ -20,7 +20,7 @@ exports.config = {
           'browserName': 'chrome',
           'shardTestFiles': true,
           'count': 1,
-           specs: ['./TestSuites/*.js']
+           specs: ['./TestSuites/Flipkart_AddToCart.js']
       },
 
        /* {
