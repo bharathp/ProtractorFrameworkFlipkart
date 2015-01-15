@@ -1,0 +1,4 @@
+cd %CD%
+grunt install
+
+
